@@ -1,0 +1,6 @@
+<view class="content">
+  <view class="content">
+  组件内的内容
+  <slot></slot>
+  </view>
+</view>

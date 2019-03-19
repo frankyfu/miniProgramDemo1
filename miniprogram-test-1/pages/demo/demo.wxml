@@ -1,0 +1,6 @@
+<view>
+  <component>
+  <view>在demo中插入组件的内容</view>
+  </component>
+  <view class="blue">demo页面中的内容</view>
+</view>

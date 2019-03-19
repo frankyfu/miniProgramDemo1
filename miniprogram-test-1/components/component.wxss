@@ -1,0 +1,9 @@
+:host
+{
+  color: blueviolet
+}
+
+page
+{
+  background:beige
+}

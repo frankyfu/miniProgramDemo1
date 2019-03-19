@@ -1,0 +1,7 @@
+
+.weui-btn
+{
+  width: 90%;
+  margin-top: 10px;
+
+}
